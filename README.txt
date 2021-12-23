@@ -6,8 +6,8 @@ mv .env.template .env
 
 1.2 fill out your github-email and github-username
 
-GIT_GLOBAL_MAIL=<your email>
-GIT_GLOBAL_USER_NAME=<your git - username>
+GIT_GLOBAL_MAIL=mihae.teo@gmail.com
+GIT_GLOBAL_USER_NAME=MTeofan
 
 1.3 make sure the docker daemon is started
 
