@@ -1,13 +1,6 @@
 # 04-lecture-notes-git-MTeofan
 = Lecture Notes / 3BHITM / ITP
 Teofan Mihaescu
-1.0.0, {docdate}: ITP
-ifndef::imagesdir[:imagesdir: images]
-//:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
-:sourcedir: ../src/main/java
-:icons: font
-:sectnums:    // Nummerierung der Überschriften / section numbering
-:toc: left
 
 == Lecture 21.12.2021
 
